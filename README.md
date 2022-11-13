@@ -12,6 +12,8 @@ The user may also change the output .txt file to any name they desire on LINE 17
 
 Finally, the user may change the number of words in their output text on LINE 18.
 
+Special thanks to our professor, Ben.
+
 Have fun,
 
-######Isaiah
+###### Isaiah
